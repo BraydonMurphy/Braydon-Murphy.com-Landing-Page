@@ -16,7 +16,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(-45deg, #FFA500, #FF8C00, #FFB347, #FF7F50);
+    background: linear-gradient(-45deg, #2193b0, #6dd5ed, #2193b0, #6dd5ed);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
 }
